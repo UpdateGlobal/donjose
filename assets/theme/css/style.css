@@ -1589,7 +1589,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     margin-left: 0;
     margin-right: 0; }
     .mbr-footer > .row > div, .mbr-footer > .container > .row > div {
-      padding-bottom: 40px; }
+      padding-bottom: 0px; }
       .mbr-footer > .row > div:last-child, .mbr-footer > .container > .row > div:last-child {
         padding-bottom: 0; }
   .mbr-footer > .container {
